@@ -1,0 +1,7 @@
+*.pyc
+config/*
+dist
+.coverage
+.*cache
+*__pycache__*
+data/*
